@@ -33,7 +33,7 @@
     "strong-error-handler": "^3.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
+    "eslint": "^4.18.2",
     "eslint-config-loopback": "^8.0.0",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.8"
