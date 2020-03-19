@@ -1,6 +1,13 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "memory"
+  "mongoDS": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "starwars",
+    "password": "",
+    "name": "mongoDS",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
   }
 }
